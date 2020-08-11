@@ -73,6 +73,7 @@ nnoremap yl y$
 nnoremap Yl "+y$
 nnoremap Yw "+yw
 nnoremap YW "+yW
+nnoremap YY "+yy
 noremap P "+p
 
 map s <nop>
